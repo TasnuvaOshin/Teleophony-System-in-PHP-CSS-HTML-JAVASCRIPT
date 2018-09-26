@@ -1,0 +1,59 @@
+.h{
+	background:#ff4d4d;
+	padding:10px;
+	border:2px solid black;
+	color:black;
+	
+	
+}
+#b{
+	
+	
+}
+#d{
+	
+	height:510px;
+	width:400px;
+	background:#dcdde1;
+	border:3px solid black;
+	border-radius:25px;
+	margin: 0 auto;
+	
+}
+
+#form{
+	
+	
+	 margin:5px;
+	 text-align:center;
+	padding:3px;
+	height:30px;
+	width:380px;
+	
+	
+}
+
+.img{
+	height:200px;
+	width:200px;
+	
+	
+}
+
+
+
+#button{
+	
+	margin:5px;
+	 text-align:center;
+	padding:2px;
+	height:30px;
+	width:380px;
+	background: red;
+	border:3px solid black;
+	border-radius:25px;
+	
+	
+	
+}
+
